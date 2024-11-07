@@ -49,7 +49,7 @@ const Management = () => {
 
         <div className="w-[1480px] h-[661px] flex flex-row items-center mt-[100px]">
           <div className="w-[710px] h-[661px] relative">
-            <div className="w-[661px] h-[661px] border-dashed border-so border-[#A7CEFC] rounded-full"></div>
+            <div className="w-[661px] h-[661px] border-dashed border-4 border-[#A7CEFC] rounded-full"></div>
             <div className="w-[70px] h-[70px] border-transparent bg-[#FFDC4D] absolute top-0 left-[20%] rounded-full"></div>
             <div className="w-[70px] h-[70px] border-transparent bg-[#FF5758] absolute top-[45%] -left-9 rounded-full"></div>
             <div className="w-[70px] h-[70px] border-transparent bg-[#37A3FF] absolute top-[580px] left-[137px] rounded-full"></div>
