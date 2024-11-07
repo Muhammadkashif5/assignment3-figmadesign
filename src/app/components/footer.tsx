@@ -1,4 +1,4 @@
-import react from "react";
+// import react from "react";
 import Image from "next/image";
 import logo from "@/app/assets/Logo.png";
 import { Inter } from "next/font/google";

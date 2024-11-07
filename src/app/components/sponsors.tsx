@@ -1,4 +1,4 @@
-import react from "react";
+// import react from "react";
 import Image from "next/image";
 import Apple from "@/app/assets/Apple.jpg";
 import Microsoft from "@/app/assets/Microsoft.jpg";
